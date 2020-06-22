@@ -1,2 +1,2 @@
 # Test
-Test for git commands demonstration
+Test UAS praktikum
